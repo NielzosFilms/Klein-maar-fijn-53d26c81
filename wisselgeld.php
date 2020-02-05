@@ -4,7 +4,11 @@
         "10 euro"=>0,
         "5 euro"=>0,
         "2 euro"=>0,
-        "1 euro"=>0
+        "1 euro"=>0,
+        "0.5 cent"=>0,
+        "0.2 cent"=>0,
+        "0.1 cent"=>0,
+        "0.05 cent"=>0
     ];
     if($geld > 0) {
         foreach($munten as $munt=>$val){
